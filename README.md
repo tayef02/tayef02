@@ -9,13 +9,22 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalid586" alt="khalid586" /></a> </p>
 
-- 🔭 I’m currently working on ACM ICPC Dhaka Regional.
-- 🌱 I’m currently learning **Advanced Algorithms and System Design**.
-- 🤝 I’m looking for help with **Competitive Programming Strategies**.
-- 👨‍💻 All of my projects are available at [My Portfolio](#).
-- 💬 Ask me about **Competitive Programming and Problem Solving**.
-- 💌 How to reach me: **[Your Email Address]**
-- ⚡ Fun fact: *I enjoy solving challenging problems!*
+
+  🔭 I’m currently working on [Virtual Lost & Found System](https://docs.google.com/document/d/1hVktm4MB1OkxgRIqHOczk5Nvup3o1FiMHzv0dSNi0NQ/edit?usp=sharing)
+  
+- 🌱 I’m currently learning **CSS, JavaScript, Python, React, Vue, GSAP, etc.**
+
+- 🤝 I’m looking for help with [Student Portal](https://docs.google.com/document/d/1hVktm4MB1OkxgRIqHOczk5Nvup3o1FiMHzv0dSNi0NQ/edit?usp=sharing)
+
+- 👨‍💻 All of my projects are available at [My Portfolio](#)
+
+- 📝 I regularly write articles on [My Blog](#)
+
+- 💬 Ask me about **React, Vue, GSAP, and frontend development**
+
+- 💌 How to reach me: **aminulislamtayef02@gmail.com**
+
+- 📝 Know about my experiences [My Resume](#)
 
 ### 📞 Connect with me:
 <p align="left">
