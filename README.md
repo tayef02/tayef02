@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Aminul Islam Tayef</h1>
-<h3 align="center">I’m a Problem-Setter, Programming Mentor, and Competition Organizer.</h3>
+<h3 align="center"> I’m currently a CSE student, learning and building projects in frontend development.</h3>
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
