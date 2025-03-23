@@ -5,9 +5,9 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khalid586&label=Profile%20views&color=0e75b6&style=flat" alt="khalid586" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tayef02&label=Profile%20views&color=0e75b6&style=flat" alt="tayef02" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalid586" alt="khalid586" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tayef02" alt="tayef02" /></a> </p>
 
 
   🔭 I’m currently working on [Virtual Lost & Found System](https://docs.google.com/document/d/1hVktm4MB1OkxgRIqHOczk5Nvup3o1FiMHzv0dSNi0NQ/edit?usp=sharing)
