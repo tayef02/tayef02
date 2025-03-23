@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Khalid Abdullah</h1>
+<h1 align="center">Hello 👋, I'm Aminul Islam Tayef</h1>
 <h3 align="center">I’m a Problem-Setter, Programming Mentor, and Competition Organizer.</h3>
 
 <div align="center">
@@ -29,7 +29,7 @@
 
 ### 🔧 Languages and Tools:
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-original.svg" alt="c++" width="40" height="40"/>
+ [ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-original.svg" alt="c++" width="40" height="40"/>](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
