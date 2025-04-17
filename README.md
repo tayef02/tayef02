@@ -17,6 +17,13 @@
 
 ---
 
+<!-- Dev Animation -->
+<p align="center">
+  <img src="https://github.com/piyushsharma220699/piyushsharma220699/raw/main/Introduction.gif" alt="developer gif" width="600"/>
+</p>
+
+---
+
 ### 🧑‍💻 About Me
 
 - 🎓 I’m a current student of Computer Science and Engineering  
